@@ -1,0 +1,1 @@
+./runnable -m 1000 -e 10000 -i 25000 -t 5400 -x 0 -p 2 -g 30 -a 2 & ./runnable -m 1000 -e 10000 -i 25000 -t 5400 -x 0 -p 2 -g 30 -a 2 & ./runnable -m 1000 -e 10000 -i 25000 -t 5400 -x 0 -p 2 -g 30 -a 2 & ./runnable -m 1000 -e 10000 -i 25000 -t 5400 -x 0 -p 2 -g 30 -a 2 & ./runnable -m 1000 -e 10000 -i 25000 -t 5400 -x 0 -p 2 -g 30 -a 2  
